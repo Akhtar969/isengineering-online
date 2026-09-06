@@ -256,7 +256,7 @@ p:last-child { margin-bottom: 0; }
 .faq-tog { width: 26px; height: 26px; flex-shrink: 0; background: var(--green); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-size: 1rem; transition: transform var(--trans), background var(--trans); line-height: 1; }
 .faq-item.open .faq-tog { transform: rotate(45deg); background: var(--dark); }
 .faq-ans { max-height: 0; overflow: hidden; transition: max-height 0.35s ease; }
-.faq-item.open .faq-ans { max-height: 300px; }
+.faq-item.open .faq-ans { max-height: 1400px; }
 .faq-ans-inner { padding: 0 18px 16px; }
 .faq-ans-inner p { font-size: 0.88rem; color: var(--grey); margin: 0; }
 

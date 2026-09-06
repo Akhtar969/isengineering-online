@@ -1,5 +1,5 @@
 # I.S. Engineering Co. — Website
-**isengineeringco.in** | M.S. Flanges Manufacturer & Supplier, Mumbai — Since 1999
+**isengineeringco.online** | M.S. Flanges Manufacturer & Supplier, Mumbai — Since 1999
 
 ---
 
@@ -21,10 +21,6 @@ isengineering/
 ├── flat-flanges.html              ← Product Detail: Flat / Slip-On Flanges
 ├── male-female-flanges.html       ← Product Detail: Male Female Flanges
 ├── forged-flanges.html            ← Product Detail: Forged Flanges
-├── ms-square-pipes.html           ← Product Detail: M.S. Square Pipes (IS:4923 SHS)
-├── ms-round-pipes.html            ← Product Detail: M.S. ERW Round Pipes (IS:1239/IS:3589)
-├── elbow-fittings.html            ← Product Detail: Elbow Fittings (45°/90°)
-├── reducer-fittings.html          ← Product Detail: Reducer Fittings (Concentric/Eccentric)
 │
 ├── robots.txt                    ← SEO robots file (points to sitemap.xml)
 ├── sitemap.xml                   ← XML sitemap for Google (all 17 pages + image sitemap)
@@ -60,10 +56,6 @@ isengineering/
 | `flat-flanges.html` | Product detail | Overview, dimension table, 6 applications, 5 FAQs |
 | `male-female-flanges.html` | Product detail | Overview, dimension table, 4 applications, 4 FAQs |
 | `forged-flanges.html` | Product detail | Overview, comparison table, 5 applications, 5 FAQs |
-| `ms-square-pipes.html` | Product detail | Overview, weight chart, 6 applications, 5 FAQs |
-| `ms-round-pipes.html` | Product detail | Overview, OD/wall chart, 6 applications, 5 FAQs |
-| `elbow-fittings.html` | Product detail | Overview, dimension table, 6 applications, 5 FAQs |
-| `reducer-fittings.html` | Product detail | Overview, dimension table, 5 applications, 5 FAQs |
 
 ---
 
@@ -90,8 +82,6 @@ Every HTML page also includes inline:
 
 Products dropdown is grouped into 3 sections:
 - **M.S. Flanges** → ms-flanges, e-table-flanges, blind-flanges, welding-neck-flanges, socket-weld-flanges, flat-flanges, male-female-flanges, forged-flanges
-- **M.S. Pipes** → ms-square-pipes, ms-round-pipes
-- **Pipe Fittings** → elbow-fittings, reducer-fittings, → "View All Products" link
 
 **Footer (all pages):** Same Products list repeated as direct links for crawlability + internal linking.
 
@@ -120,7 +110,7 @@ Place your product/factory photos in `assets/images/` using the filenames alread
 Upload all files maintaining the **flat root structure** above to your web host (cPanel File Manager or FTP):
 - Upload to `public_html/` for root domain
 - Ensure `index.html` is the default document
-- Verify `llms.txt` and `llms-full.txt` are accessible at the root (e.g. `https://isengineeringco.in/llms.txt`)
+- Verify `llms.txt` and `llms-full.txt` are accessible at the root (e.g. `https://isengineeringco.online/llms.txt`)
 
 ### 3. Update Google Maps Embed
 In `contact.html`, replace the Google Maps iframe `src` with the correct embed URL for your factory address:
@@ -203,4 +193,4 @@ If this number changes, search and replace `918355815350` across all HTML files.
 - GSTIN: 27AMZPK5174G1ZE
 
 ---
-*Website built for I.S. Engineering Co. — isengineeringco.in*
+*Website built for I.S. Engineering Co. — isengineeringco.online*

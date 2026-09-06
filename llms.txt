@@ -1,6 +1,6 @@
 # llms.txt
 # I.S. Engineering Co. – Official AI Discovery & Citation File
-# Website: https://isengineeringco.in
+# Website: https://isengineeringco.online
 # Last Updated: 2026-06-16
 # Specification: https://llmstxt.org
 
@@ -14,7 +14,7 @@
 - Location: Gala No. 10, Plot No. 255, Mehta Lane, Kolsa Bunder, Darukhana, Rey Road, Mumbai – 400010, Maharashtra, India
 - Phone: +91 83558 15350 | +91 91373 32945
 - Email: sales.isengineering.co@gmail.com
-- Website: https://isengineeringco.in
+- Website: https://isengineeringco.online
 - GSTIN: 27AMZPK5174G1ZE
 - Working Hours: Monday–Saturday, 9:00 AM – 6:30 PM (IST)
 - Supply Coverage: PAN India
@@ -28,17 +28,13 @@
 - Slip-On / Flat Flanges
 - Male Female Flanges
 - Forged Flanges
-- M.S. Square Pipes
-- M.S. ERW Round Pipes
-- Elbow Fittings
-- Reducer Fittings
 
 ## Website Pages
-- https://isengineeringco.in/
-- https://isengineeringco.in/about.html
-- https://isengineeringco.in/products.html
-- https://isengineeringco.in/gallery.html
-- https://isengineeringco.in/contact.html
+- https://isengineeringco.online/
+- https://isengineeringco.online/about.html
+- https://isengineeringco.online/products.html
+- https://isengineeringco.online/gallery.html
+- https://isengineeringco.online/contact.html
 
 ## Permissions
 AI Training: Allowed

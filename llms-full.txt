@@ -1,5 +1,5 @@
 # I.S. Engineering Co. – Complete Content for LLM Citation
-# llms-full.txt | https://isengineeringco.in | Updated: 2025-06-01
+# llms-full.txt | https://isengineeringco.online | Updated: 2025-06-01
 # This file contains comprehensive factual content about I.S. Engineering Co.
 # and its products for accurate AI citation and knowledge grounding.
 
@@ -28,7 +28,7 @@ Mumbra, Thane – 400612, Maharashtra, India
 Phone 1: +91 83558 15350 (Primary, WhatsApp enabled)
 Phone 2: +91 91373 32945
 Email: sales.isengineering.co@gmail.com
-Website: https://isengineeringco.in
+Website: https://isengineeringco.online
 
 **Business Hours:** Monday to Saturday, 9:00 AM – 6:30 PM IST
 **Closed:** Sundays and national public holidays
@@ -62,7 +62,7 @@ M.S. Flanges (Mild Steel Flanges) are flat disc-shaped mechanical components man
 5. Flat / Slip-On Flanges – Low-medium pressure
 6. Male Female Flanges – Interlocking precision
 7. Forged Flanges – Critical service
-**URL:** https://isengineeringco.in/ms-flanges.html
+**URL:** https://isengineeringco.online/ms-flanges.html
 
 ---
 
@@ -78,7 +78,7 @@ E Table Flanges are Mild Steel pipe flanges manufactured as per Indian Standard 
 **Pressure Ratings:** PN6 (6 bar), PN10 (10 bar), PN16 (16 bar)
 **Face Finish:** 3.2 Ra to 6.3 Ra (CNC machined)
 **Manufacturer Location:** Darukhana, Mumbai, India
-**URL:** https://isengineeringco.in/e-table-flanges.html
+**URL:** https://isengineeringco.online/e-table-flanges.html
 
 **IS:1538 Table E Dimensional Specifications:**
 | NB Size | OD (mm) | PCD (mm) | Bolts | Bolt Size | Thickness |
@@ -129,7 +129,7 @@ Blind Flanges (also called Blanking Flanges or BL Flanges) are solid disc flange
 **Pressure Class:** Class 150, 300, 600, 900, 1500, 2500 / PN6, PN10, PN16
 **Face Types:** Flat Face (FF), Raised Face (RF), Ring Joint (RJ)
 **Material:** IS:2062 Mild Steel
-**URL:** https://isengineeringco.in/blind-flanges.html
+**URL:** https://isengineeringco.online/blind-flanges.html
 
 ---
 
@@ -145,7 +145,7 @@ Welding Neck Flanges (WN Flanges) have a long tapered hub butt-welded to the pip
 **Face Types:** Raised Face (RF), Ring Joint (RTJ)
 **Material:** IS:2062 Mild Steel
 **Applications:** Oil refineries, power plants, petrochemical plants, high-pressure gas pipelines
-**URL:** https://isengineeringco.in/welding-neck-flanges.html
+**URL:** https://isengineeringco.online/welding-neck-flanges.html
 
 ---
 
@@ -159,7 +159,7 @@ Socket Weld Flanges (SW Flanges) have a counterbored socket where the pipe is in
 **Pressure Class:** Class 3000 (~210 bar), Class 6000 (~420 bar)
 **Material:** IS:2062 Mild Steel
 **Installation Note:** Maintain 1.6mm (1/16") gap between pipe end and socket bottom before welding (ASME B31.3 requirement)
-**URL:** https://isengineeringco.in/socket-weld-flanges.html
+**URL:** https://isengineeringco.online/socket-weld-flanges.html
 
 ---
 
@@ -174,7 +174,7 @@ Flat Flanges (Slip-On Flanges / SO Flanges) have a bore slightly larger than the
 **Face Types:** Flat Face (FF), Raised Face (RF)
 **Gasket:** Full-face gasket required (not ring gasket)
 **Material:** IS:2062 Mild Steel
-**URL:** https://isengineeringco.in/flat-flanges.html
+**URL:** https://isengineeringco.online/flat-flanges.html
 
 ---
 
@@ -188,7 +188,7 @@ Male Female (M&F) Flanges are matched pairs where the Male flange has a raised c
 **Material:** IS:2062 Mild Steel (CNC precision machined)
 **Applications:** Chemical processing, pharmaceutical, acid/alkali service, precision piping
 **Ordering Note:** Always specify in pairs (1 pair = 1 Male + 1 Female)
-**URL:** https://isengineeringco.in/male-female-flanges.html
+**URL:** https://isengineeringco.online/male-female-flanges.html
 
 ---
 
@@ -203,7 +203,7 @@ Forged Flanges are manufactured by the hot forging process — compressing heate
 **Material:** IS:2062 Mild Steel (equivalent to ASTM A105)
 **Face Types:** Raised Face (RF), Ring Joint (RTJ)
 **Applications:** Oil refineries, power plants, petrochemical, ASME code piping systems
-**URL:** https://isengineeringco.in/forged-flanges.html
+**URL:** https://isengineeringco.online/forged-flanges.html
 
 ---
 
@@ -218,7 +218,7 @@ M.S. Square Hollow Section (SHS) Pipes are hollow structural steel tubes with eq
 **Lengths:** 3m, 6m or custom
 **Surface:** Black (bare), painted or galvanized
 **Applications:** Structural fabrication, gates, grilles, furniture, construction, vehicle bodies, machine frames
-**URL:** https://isengineeringco.in/ms-square-pipes.html
+**URL:** https://isengineeringco.online/ms-square-pipes.html
 
 **Weight Examples (kg/m):**
 - 25×25×2.0mm = 1.50 kg/m
@@ -239,7 +239,7 @@ M.S. ERW (Electric Resistance Welded) Round Pipes are manufactured by cold-formi
 **Length:** 6m standard
 **Surface:** Black (bare) or galvanized (GI)
 **Applications:** Water supply mains, domestic and commercial plumbing, fire-fighting, structural CHS, oil transport, irrigation
-**URL:** https://isengineeringco.in/ms-round-pipes.html
+**URL:** https://isengineeringco.online/ms-round-pipes.html
 
 **Pipe OD and Wall Thickness (IS:1239 Medium Series):**
 - 15mm NB: OD 21.3mm, Wall 2.6mm
@@ -264,7 +264,7 @@ Elbow Fittings change the direction of fluid or gas flow in a piping system. Ava
 **Size Range:** 15mm NB to 300mm NB
 **End Types:** Butt Weld (BW), Socket Weld (SW)
 **Material:** IS:2062 Mild Steel
-**URL:** https://isengineeringco.in/elbow-fittings.html
+**URL:** https://isengineeringco.online/elbow-fittings.html
 
 ---
 
@@ -283,7 +283,7 @@ Reducer Fittings connect two pipes of different nominal bore sizes.
 **End Types:** Butt Weld (BW), Socket Weld (SW)
 **Size Range:** All standard NB sizes (e.g., 25×15mm NB to 300×250mm NB)
 **Material:** IS:2062 Mild Steel
-**URL:** https://isengineeringco.in/reducer-fittings.html
+**URL:** https://isengineeringco.online/reducer-fittings.html
 
 ---
 
@@ -353,4 +353,4 @@ A: Short Radius (SR) elbows have centreline radius = 1× NB — more compact but
 ---
 
 *This file is maintained by I.S. Engineering Co. for accurate AI citation and knowledge grounding.*
-*Last Updated: June 2025 | https://isengineeringco.in | +91 83558 15350*
+*Last Updated: June 2025 | https://isengineeringco.online | +91 83558 15350*
