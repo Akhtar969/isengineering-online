@@ -132,8 +132,8 @@ The contact form currently shows a success message (demo mode). To send real ema
 - Run the live site through **PageSpeed Insights** and compress images to WebP
 
 ### 6. WhatsApp Number
-All WhatsApp links use `+918355815350` with pre-filled, page-specific enquiry messages.
-If this number changes, search and replace `918355815350` across all HTML files.
+All WhatsApp links use `+919922047887` with pre-filled, page-specific enquiry messages.
+If this number changes, search and replace `919922047887` across all HTML files.
 
 ---
 
@@ -185,9 +185,9 @@ If this number changes, search and replace `918355815350` across all HTML files.
 - Background: `#FFFFFF`
 
 ## Contact Details Embedded
-- Phone 1: +91 83558 15350
+- Phone 1: +91 99220 47887
 - Phone 2: +91 91373 32945
-- Email: sales.isengineering.co@gmail.com
+- Email: sales.isengineeringco@gmail.com
 - Factory: Gala No 10, Plot 255, Darukhana, Mumbai – 400010
 - Office: Jasmin Apt A-Wing 304, Mumbra, Thane – 400612
 - GSTIN: 27AMZPK5174G1ZE
