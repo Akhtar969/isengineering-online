@@ -110,37 +110,28 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "BreadcrumbList",
-      "@id": "https://isengineeringco.online/forged-flanges.html#breadcrumb",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://isengineeringco.online/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Flanges",
-          "item": "https://isengineeringco.online/products.html"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Forged Flanges",
-          "item": "https://isengineeringco.online/forged-flanges.html"
-        }
-      ]
-    },
-
-    {
-      "@type": "LocalBusiness",
-      "@id": "https://isengineeringco.online/#localbusiness",
-      "name": "I.S. Engineering Co.",
-      "description": "M.S. and S.S. flange manufacturer and supplier in Darukhana, Mumbai since 1999. Forged, plate-cut and machined flanges in mild steel IS:2062 and stainless steel 304, 304L, 316 and 316L.",
+      "@type": "WebSite",
+      "@id": "https://isengineeringco.online/#website",
       "url": "https://isengineeringco.online/",
-      "logo": "https://isengineeringco.online/assets/images/logo.png",
+      "name": "I.S. Engineering Co.",
+      "publisher": {
+        "@id": "https://isengineeringco.online/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://isengineeringco.online/#organization",
+      "name": "I.S. Engineering Co.",
+      "alternateName": [
+        "IS Engineering Co",
+        "I.S. Engineering Company Mumbai"
+      ],
+      "url": "https://isengineeringco.online/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://isengineeringco.online/assets/images/logo.png"
+      },
       "image": "https://isengineeringco.online/assets/images/forged-flanges.jpg",
       "telephone": [
         "+919922047887",
@@ -148,7 +139,48 @@
       ],
       "email": "sales.isengineeringco@gmail.com",
       "foundingDate": "1999",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+919922047887",
+          "contactType": "sales",
+          "availableLanguage": [
+            "English",
+            "Hindi",
+            "Marathi"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+919137332945",
+          "contactType": "customer service",
+          "availableLanguage": [
+            "English",
+            "Hindi",
+            "Marathi"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://isengineeringco.online/#localbusiness",
+      "name": "I.S. Engineering Co.",
+      "description": "M.S. and S.S. flange manufacturer and supplier in Darukhana, Mumbai since 1999, supplying forged, plate-cut and machined flanges in mild steel and stainless steel.",
+      "url": "https://isengineeringco.online/",
+      "image": "https://isengineeringco.online/assets/images/forged-flanges.jpg",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://isengineeringco.online/assets/images/logo.png"
+      },
+      "telephone": [
+        "+919922047887",
+        "+919137332945"
+      ],
+      "email": "sales.isengineeringco@gmail.com",
+      "foundingDate": "1999",
       "priceRange": "$$",
+      "currenciesAccepted": "INR",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Gala No 10, Plot No 255, Mehta Lane, Kolsa Bunder, Darukhana, Rey Road",
@@ -179,142 +211,6 @@
       ],
       "areaServed": [
         {
-          "@type": "City",
-          "name": "Mumbai"
-        },
-        {
-          "@type": "City",
-          "name": "Navi Mumbai"
-        },
-        {
-          "@type": "City",
-          "name": "Thane"
-        },
-        {
-          "@type": "City",
-          "name": "Pune"
-        },
-        {
-          "@type": "City",
-          "name": "Nashik"
-        },
-        {
-          "@type": "City",
-          "name": "Nagpur"
-        },
-        {
-          "@type": "City",
-          "name": "Ahmedabad"
-        },
-        {
-          "@type": "City",
-          "name": "Surat"
-        },
-        {
-          "@type": "City",
-          "name": "Vadodara"
-        },
-        {
-          "@type": "City",
-          "name": "Jamnagar"
-        },
-        {
-          "@type": "City",
-          "name": "Delhi"
-        },
-        {
-          "@type": "City",
-          "name": "Kolkata"
-        },
-        {
-          "@type": "City",
-          "name": "Chennai"
-        },
-        {
-          "@type": "City",
-          "name": "Coimbatore"
-        },
-        {
-          "@type": "City",
-          "name": "Madurai"
-        },
-        {
-          "@type": "City",
-          "name": "Tiruchirappalli"
-        },
-        {
-          "@type": "City",
-          "name": "Salem"
-        },
-        {
-          "@type": "City",
-          "name": "Thoothukudi"
-        },
-        {
-          "@type": "City",
-          "name": "Bengaluru"
-        },
-        {
-          "@type": "City",
-          "name": "Mysuru"
-        },
-        {
-          "@type": "City",
-          "name": "Mangaluru"
-        },
-        {
-          "@type": "City",
-          "name": "Hubballi"
-        },
-        {
-          "@type": "City",
-          "name": "Hyderabad"
-        },
-        {
-          "@type": "City",
-          "name": "Visakhapatnam"
-        },
-        {
-          "@type": "City",
-          "name": "Vijayawada"
-        },
-        {
-          "@type": "City",
-          "name": "Kochi"
-        },
-        {
-          "@type": "City",
-          "name": "Thiruvananthapuram"
-        },
-        {
-          "@type": "State",
-          "name": "Maharashtra"
-        },
-        {
-          "@type": "State",
-          "name": "Tamil Nadu"
-        },
-        {
-          "@type": "State",
-          "name": "Karnataka"
-        },
-        {
-          "@type": "State",
-          "name": "Kerala"
-        },
-        {
-          "@type": "State",
-          "name": "Telangana"
-        },
-        {
-          "@type": "State",
-          "name": "Andhra Pradesh"
-        },
-        {
-          "@type": "State",
-          "name": "Gujarat"
-        },
-        {
           "@type": "Country",
           "name": "India"
         },
@@ -339,39 +235,46 @@
           "name": "Saudi Arabia"
         }
       ],
-      "contactPoint": [
+      "sameAs": [
+        "https://isengineeringco.online/"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://isengineeringco.online/forged-flanges.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "ContactPoint",
-          "telephone": "+919922047887",
-          "contactType": "sales",
-          "availableLanguage": [
-            "English",
-            "Hindi",
-            "Marathi"
-          ]
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://isengineeringco.online/"
         },
         {
-          "@type": "ContactPoint",
-          "telephone": "+919137332945",
-          "contactType": "customer service",
-          "availableLanguage": [
-            "English",
-            "Hindi",
-            "Marathi"
-          ]
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Flanges",
+          "item": "https://isengineeringco.online/products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Forged Flanges",
+          "item": "https://isengineeringco.online/forged-flanges.html"
         }
       ]
     },
-
     {
       "@type": "WebPage",
       "@id": "https://isengineeringco.online/forged-flanges.html#webpage",
       "url": "https://isengineeringco.online/forged-flanges.html",
-      "name": "Forged Flange Manufacturer Mumbai | M.S. & S.S. Forgings",
-      "description": "Forged weld neck, blind, slip-on, socket weld and threaded flanges manufactured in Darukhana, Mumbai since 1999 in M.S. IS:2062 and SS 304, 304L, 316 and 316L.",
+      "name": "Forged Flange Manufacturer Mumbai | M.S. & S.S. Forged Flanges",
+      "description": "Forged weld neck, blind, slip-on, socket weld and threaded flanges supplied from Darukhana, Mumbai in mild steel and stainless steel for industrial piping applications.",
       "inLanguage": "en-IN",
       "isPartOf": {
         "@id": "https://isengineeringco.online/#website"
+      },
+      "publisher": {
+        "@id": "https://isengineeringco.online/#organization"
       },
       "about": {
         "@id": "https://isengineeringco.online/forged-flanges.html#product"
@@ -395,18 +298,6 @@
         ]
       }
     },
-
-    {
-      "@type": "WebSite",
-      "@id": "https://isengineeringco.online/#website",
-      "url": "https://isengineeringco.online/",
-      "name": "I.S. Engineering Co.",
-      "publisher": {
-        "@id": "https://isengineeringco.online/#localbusiness"
-      },
-      "inLanguage": "en-IN"
-    },
-
     {
       "@type": "Product",
       "@id": "https://isengineeringco.online/forged-flanges.html#product",
@@ -420,7 +311,8 @@
         "Forged Socket Weld Flange",
         "Forged Threaded Flange"
       ],
-      "description": "Forged flanges machined at Darukhana, Mumbai since 1999, including forged weld neck, blind, slip-on, socket weld and threaded flanges in mild steel IS:2062 and stainless steel 304, 304L, 316 and 316L. Standard sizes are 15mm to 600mm NB, with larger sizes manufactured to drawing.",
+      "description": "Forged flanges supplied by I.S. Engineering Co. in mild steel and stainless steel, including forged weld neck, blind, slip-on, socket weld and threaded flanges. Available in standard sizes from 15mm to 600mm NB, with larger and non-standard sizes manufactured to drawing subject to specification.",
+      "url": "https://isengineeringco.online/forged-flanges.html",
       "image": [
         "https://isengineeringco.online/assets/images/forged-flanges.jpg"
       ],
@@ -429,9 +321,9 @@
         "name": "I.S. Engineering Co."
       },
       "manufacturer": {
-        "@id": "https://isengineeringco.online/#localbusiness"
+        "@id": "https://isengineeringco.online/#organization"
       },
-      "category": "Pipe Flanges",
+      "category": "Industrial Pipe Flanges",
       "material": [
         "Mild Steel IS:2062",
         "Stainless Steel 304",
@@ -447,144 +339,71 @@
         {
           "@type": "PropertyValue",
           "name": "Size Range",
-          "value": "15mm to 600mm NB; larger sizes manufactured to drawing on request"
+          "value": "15mm to 600mm NB; larger sizes available to drawing"
         },
         {
           "@type": "PropertyValue",
-          "name": "Sub-Types",
+          "name": "Flange Types",
           "value": "Forged Weld Neck, Forged Blind, Forged Slip-On, Forged Socket Weld, Forged Threaded"
         },
         {
           "@type": "PropertyValue",
-          "name": "Drilling",
-          "value": "BS 10 Table D, E, F and H; ASME B16.5 Classes 150, 300 and 600; higher classes to drawing and specification"
+          "name": "Drilling Standards",
+          "value": "BS 10 Tables D, E, F and H; ASME B16.5 Classes 150, 300 and 600; other drilling to drawing"
         },
         {
           "@type": "PropertyValue",
           "name": "Facing",
-          "value": "Raised Face, Flat Face or Ring Type Joint (RTJ), subject to specification"
+          "value": "Raised Face (RF), Flat Face (FF), Ring Type Joint (RTJ)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material Grades",
+          "value": "IS:2062 Mild Steel, SS 304, SS 304L, SS 316, SS 316L and ASTM A105 where specified"
         },
         {
           "@type": "PropertyValue",
           "name": "Certification",
-          "value": "Material test certificate available on request; third-party inspection can be arranged when specified at order stage"
+          "value": "Material Test Certificate available on request; third-party inspection can be arranged where required"
         }
       ],
-      "hasOfferCatalog": {
-        "@type": "OfferCatalog",
-        "name": "Forged Flange Sub-Categories",
-        "itemListElement": [
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Product",
-              "name": "Forged Weld Neck Flange (WNRF)",
-              "description": "Forged flange with a tapered hub and bore machined to the required pipe schedule, designed for butt welding to the pipe.",
-              "brand": {"@type": "Brand", "name": "I.S. Engineering Co."},
-              "offers": {
-                "@type": "Offer",
-                "priceCurrency": "INR",
-                "price": "250",
-                "priceValidUntil": "2027-03-31",
-                "availability": "https://schema.org/InStock",
-                "url": "https://isengineeringco.online/forged-flanges.html",
-                "seller": {"@id": "https://isengineeringco.online/#localbusiness"}
-              }
-            }
-          },
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Product",
-              "name": "Forged Blind Flange (BLRF)",
-              "description": "Solid forged flange without a pipe bore, drilled to the required table or pressure class and used to close a vessel, header or pipeline opening.",
-              "brand": {"@type": "Brand", "name": "I.S. Engineering Co."},
-              "offers": {
-                "@type": "Offer",
-                "priceCurrency": "INR",
-                "price": "250",
-                "priceValidUntil": "2027-03-31",
-                "availability": "https://schema.org/InStock",
-                "url": "https://isengineeringco.online/forged-flanges.html",
-                "seller": {"@id": "https://isengineeringco.online/#localbusiness"}
-              }
-            }
-          },
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Product",
-              "name": "Forged Slip-On Flange (SORF)",
-              "description": "Forged flange bored to suit the pipe outside diameter and designed to be slipped over the pipe before welding.",
-              "brand": {"@type": "Brand", "name": "I.S. Engineering Co."},
-              "offers": {
-                "@type": "Offer",
-                "priceCurrency": "INR",
-                "price": "250",
-                "priceValidUntil": "2027-03-31",
-                "availability": "https://schema.org/InStock",
-                "url": "https://isengineeringco.online/forged-flanges.html",
-                "seller": {"@id": "https://isengineeringco.online/#localbusiness"}
-              }
-            }
-          },
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Product",
-              "name": "Forged Socket Weld Flange (SWRF)",
-              "description": "Forged flange with a socket bore and internal shoulder for small-bore pipe connections.",
-              "brand": {"@type": "Brand", "name": "I.S. Engineering Co."},
-              "offers": {
-                "@type": "Offer",
-                "priceCurrency": "INR",
-                "price": "250",
-                "priceValidUntil": "2027-03-31",
-                "availability": "https://schema.org/InStock",
-                "url": "https://isengineeringco.online/forged-flanges.html",
-                "seller": {"@id": "https://isengineeringco.online/#localbusiness"}
-              }
-            }
-          },
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Product",
-              "name": "Forged Threaded Flange",
-              "description": "Forged flange with an internally threaded bore manufactured to the specified NPT, BSP or other applicable thread standard.",
-              "brand": {"@type": "Brand", "name": "I.S. Engineering Co."},
-              "offers": {
-                "@type": "Offer",
-                "priceCurrency": "INR",
-                "price": "250",
-                "priceValidUntil": "2027-03-31",
-                "availability": "https://schema.org/InStock",
-                "url": "https://isengineeringco.online/forged-flanges.html",
-                "seller": {"@id": "https://isengineeringco.online/#localbusiness"}
-              }
-            }
-          }
-        ]
-      },
       "offers": {
         "@type": "Offer",
         "url": "https://isengineeringco.online/forged-flanges.html",
         "priceCurrency": "INR",
-        "price": "275",
-        "priceValidUntil": "2027-03-31",
         "availability": "https://schema.org/InStock",
-        "seller": {"@id": "https://isengineeringco.online/#localbusiness"},
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@id": "https://isengineeringco.online/#localbusiness"
+        },
         "areaServed": [
-          {"@type": "Country", "name": "India"},
-          {"@type": "Country", "name": "United Arab Emirates"},
-          {"@type": "Country", "name": "Oman"},
-          {"@type": "Country", "name": "Qatar"},
-          {"@type": "Country", "name": "Kuwait"},
-          {"@type": "Country", "name": "Saudi Arabia"}
+          {
+            "@type": "Country",
+            "name": "India"
+          },
+          {
+            "@type": "Country",
+            "name": "United Arab Emirates"
+          },
+          {
+            "@type": "Country",
+            "name": "Oman"
+          },
+          {
+            "@type": "Country",
+            "name": "Qatar"
+          },
+          {
+            "@type": "Country",
+            "name": "Kuwait"
+          },
+          {
+            "@type": "Country",
+            "name": "Saudi Arabia"
+          }
         ]
       }
     },
-
     {
       "@type": "FAQPage",
       "@id": "https://isengineeringco.online/forged-flanges.html#faq",
@@ -613,7 +432,7 @@
           "name": "Should I order forged or plate-cut flanges?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The choice between forged and plate-cut flanges should follow the applicable piping code, project specification, pressure class and material requirement. Where the specification requires a forged pressure component, the flange should be manufactured from the specified forging material. For applications where plate-cut flanges are permitted, a plate-cut flange may be suitable."
+            "text": "The choice between forged and plate-cut flanges should follow the applicable piping code, project specification, pressure class and material requirement. Where the specification requires a forged pressure component, the flange should be manufactured from the specified forging material. Where plate-cut flanges are permitted, a plate-cut flange may be suitable."
           }
         },
         {
@@ -621,15 +440,15 @@
           "name": "Is IS:2062 the same as ASTM A105?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. IS:2062 and ASTM A105 are different material specifications and should not be treated as interchangeable. ASTM A105 is specifically intended for forged carbon steel piping components. If ASTM A105 is required by the project specification, the material should be ordered and certified to that specification."
+            "text": "No. IS:2062 and ASTM A105 are different material specifications and should not be treated as interchangeable. ASTM A105 is specifically intended for forged carbon steel piping components. If ASTM A105 is required by the project specification, the flange should be ordered and certified to that specification."
           }
         },
         {
           "@type": "Question",
-          "name": "Which pressure classes do you make forged flanges in?",
+          "name": "Which pressure classes are available for forged flanges?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Forged flanges can be supplied to ASME B16.5 Classes 150, 300 and 600 as routine requirements. Higher pressure classes can be quoted against the required drawing, material specification, dimensions and certification requirements. BS 10 Tables D, E, F and H are also available according to the specified application."
+            "text": "Forged flanges can be supplied to ASME B16.5 Classes 150, 300 and 600 according to the required specification. Higher pressure classes can be quoted against the required drawing, material specification, dimensions and certification requirements. BS 10 Tables D, E, F and H can also be supplied where specified."
           }
         },
         {
@@ -653,7 +472,7 @@
           "name": "Do you supply forged flanges in stainless steel?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Stainless steel forged flanges are available in SS 304, 304L, 316 and 316L, subject to the required size, flange type, standard and quantity."
+            "text": "Yes. Stainless steel forged flanges are available in SS 304, SS 304L, SS 316 and SS 316L, subject to the required size, flange type, standard and quantity."
           }
         },
         {
@@ -677,7 +496,7 @@
           "name": "How do I get a price for forged flanges?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Send the NB size, flange type, drilling standard or pressure class, facing, material grade, certification requirements and quantity. A drawing or specification page can be provided to confirm the required dimensions before quotation."
+            "text": "Send the nominal bore size, flange type, drilling standard or pressure class, facing, material grade, certification requirements and quantity. A drawing or specification page can be provided to confirm the required dimensions before quotation."
           }
         }
       ]
@@ -685,6 +504,7 @@
   ]
 }
 </script>
+
 
 </head>
 <body>
